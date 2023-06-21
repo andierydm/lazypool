@@ -1,0 +1,9 @@
+#ifndef _LAZYPOOL_CODES_H_
+#define _LAZYPOOL_CODES_H_
+
+#define LAZYPOOL_OK 0
+#define LAZYPOOL_FAILED_ALLOC 1
+#define LAZYPOOL_IS_FULL 2
+#define LAZYPOOL_INVALID_POINTER 3
+
+#endif
